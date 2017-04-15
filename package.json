@@ -1,0 +1,27 @@
+{
+  "name": "grayscale-favicon",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "grayscale-favicon.js",
+  "scripts": {
+    "lint": "./node_modules/eslint/bin/eslint.js grayscale-favicon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khusnetdinov/grayscale-favicon.git"
+  },
+  "keywords": [
+    "favicon",
+    "grayscale",
+    "grayscale-favicon"
+  ],
+  "author": "Marat Khusnetdinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khusnetdinov/grayscale-favicon/issues"
+  },
+  "homepage": "https://github.com/khusnetdinov/grayscale-favicon#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
