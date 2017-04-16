@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Grayscale favicon library that manipulates favicon and colored it to grayscale.",
   "author": "Marat Khusnetdinov",
-  "main": "grayscale-favicon.js",
+  "main": "index.js",
   "scripts": {
     "lint": "./node_modules/eslint/bin/eslint.js grayscale-favicon.js",
 		"test": "./node_modules/mocha/bin/mocha"

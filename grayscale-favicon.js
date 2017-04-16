@@ -141,7 +141,7 @@
     if (isCanvasSupported()) return setFaviconTag(getCanvas().toDataURL());
   };
 
-  GrayscaleFavicon.grayscale = function(faviconUrl) {
+  GrayscaleFavicon.icon = function(faviconUrl) {
     drawFavicon(faviconUrl);
   };
 
