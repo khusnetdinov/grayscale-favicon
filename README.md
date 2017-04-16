@@ -9,17 +9,27 @@ Example of usage, normal and grayscaled library:
 ![img](http://res.cloudinary.com/dtoqqxqjv/image/upload/v1492368573/github/grayscale.icon.png)
 
 ## Installation
-### Npm
-TODO
-
-### Yarn
-TODO
-
-### Bower
-TODO
+Several installation options are available:
+  - install with npm: `npm install grayscale-favicon@1.0.0`
+  - install with yarn: `yarn add grayscale-favicon@1.0.0`
+  - install with bower: `bower install grayscale-favicon@1.0.0`
 
 ## Usage
-TODO
+If you use node.js builder:
+```javascript
+import GrayscaleFavicon from 'grayscale-favicon';
+// var GrayscaleFavicon = require('grayscale-favicon');
+
+GrayscaleFavicon();
+```
+
+If you use bower or just want to load file from source in html:
+```html
+<script src="/path/to/grayscale-favicon.js" type="text/javascript"></script>
+<script>
+  window.GrayscaleFavicon.icon();
+</script>
+```
  
 ## License
 
