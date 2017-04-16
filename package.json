@@ -1,27 +1,29 @@
 {
   "name": "grayscale-favicon",
   "version": "1.0.0",
-  "description": "Description",
+  "description": "Grayscale favicon library that manipulates favicon and colored it to grayscale.",
+  "author": "Marat Khusnetdinov",
   "main": "grayscale-favicon.js",
   "scripts": {
-    "lint": "./node_modules/eslint/bin/eslint.js grayscale-favicon.js"
+    "lint": "./node_modules/eslint/bin/eslint.js grayscale-favicon.js",
+		"test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khusnetdinov/grayscale-favicon.git"
+    "url": "https://github.com/khusnetdinov/grayscale-favicon.git"
   },
   "keywords": [
     "favicon",
     "grayscale",
     "grayscale-favicon"
   ],
-  "author": "Marat Khusnetdinov",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/khusnetdinov/grayscale-favicon/issues"
   },
   "homepage": "https://github.com/khusnetdinov/grayscale-favicon#readme",
   "devDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^3.19.0",
+    "mocha": "^3.2.0"
   }
 }
