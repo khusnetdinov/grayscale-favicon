@@ -3,7 +3,7 @@ Grayscale favicon is tool that convert colorfull favicon to grayscale.
 
 Code was taken from [Ruby Environment Favicon](https://github.com/accessd/rails-env-favicon) and adopted for npm, yarn, bower.
 
-Example of usage, normal and grayscaled library:
+Example of usage, normal and grayscaled icon with library:
 
 ![img](http://res.cloudinary.com/dtoqqxqjv/image/upload/v1492368573/github/normal.icon.png)
 ![img](http://res.cloudinary.com/dtoqqxqjv/image/upload/v1492368573/github/grayscale.icon.png)
