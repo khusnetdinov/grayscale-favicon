@@ -1,0 +1,22 @@
+{
+  "name": "grayscale-favicon",
+  "description": "Grayscale favicon library that manipulates favicon and colored it to grayscale.",
+  "main": "index.js",
+  "authors": [
+    "Marat Khusnetdinov"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "favicon",
+    "grayscale",
+    "grayscale-favicon"
+  ],
+  "homepage": "https://github.com/khusnetdinov/grayscale-favicon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
