@@ -1,4 +1,4 @@
-# Grayscale favicon [![Build Status](https://travis-ci.org/khusnetdinov/grayscale-favicon.svg?branch=master)](https://travis-ci.org/khusnetdinov/grayscale-favicon) [![npm](https://img.shields.io/npm/v/npm.svg)]()
+# Grayscale favicon [![Build Status](https://travis-ci.org/khusnetdinov/grayscale-favicon.svg?branch=master)](https://travis-ci.org/khusnetdinov/grayscale-favicon) [![npm](https://img.shields.io/npm/v/grayscale-favicon.svg)]()
 Grayscale favicon is tool that convert colorfull favicon to grayscale.
 
 Code was taken from [Ruby Environment Favicon](https://github.com/accessd/rails-env-favicon) and adopted for npm, yarn, bower.
