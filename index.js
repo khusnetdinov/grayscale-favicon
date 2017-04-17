@@ -1,3 +1,13 @@
+/*!
+ * GrayscaleFavicon - A small library for make the Favicon grayscale.
+ * Require.js adopted version.
+ * Marat Khusnetdinov (Khusnetdinov), https://github.com/khusnetdinov;
+ * Andrey Morskov (Accessd), https://github.com/accessd
+ * Copyright (c) 2017 Marat Khusnetdinov (Khusnetdinov), Andrey Morskov (Accessd)
+ * @license MIT Licensed
+ * @version 1.0.0
+ */
+
 'use strict';
 
 var GrayscaleFavicon = {};

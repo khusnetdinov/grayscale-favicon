@@ -30,7 +30,7 @@ If you use bower or just want to load file from source in html:
   window.GrayscaleFavicon.icon();
 </script>
 ```
- 
+
 ## License
 
 The gem is available as open source under the terms of the [MIT

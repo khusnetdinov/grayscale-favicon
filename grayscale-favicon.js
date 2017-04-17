@@ -1,3 +1,11 @@
+/*!
+ * GrayscaleFavicon - A small library for make the Favicon grayscale.
+ * Andrey Morskov (Accessd), https://github.com/accessd
+ * Copyright (c) 2014 Andrey Morskov (Accessd)
+ * @license MIT Licensed
+ * @version 1.0.0
+ */
+
 (function() {
   var GrayscaleFavicon = {};
   var currentFavicon = null;
